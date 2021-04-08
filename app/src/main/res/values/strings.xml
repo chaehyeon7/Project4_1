@@ -7,6 +7,7 @@
     <string name="btn2">뺴기</string>
     <string name="btn3">곱하기</string>
     <string name="btn4">나누기</string>
+    <string name="btn5">나누기</string>
     <string name="t1">계산결과: </string>
 
 </resources>
